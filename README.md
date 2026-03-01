@@ -92,10 +92,10 @@ Top 5 products account for only 26.8% of revenue → diversified portfolio reduc
 
 
 ### Top Sales Reps Performance
-![Top Reps](Top sales performace .png)
+![Top Reps](Topsalesperformace.png)
 
 ### Product Mix Over Time
-![Product Mix](Quality Sales Performance.png)
+![Product Mix](QualitySalesPerformance.png)
 
 ---
 
