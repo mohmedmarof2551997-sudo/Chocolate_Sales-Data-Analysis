@@ -88,7 +88,8 @@ Top 5 products account for only 26.8% of revenue → diversified portfolio reduc
 ## 📊 Visualizations
 
 ### Revenue Trend
-![Revenue Trend](Country revenue share.png)
+![Revenue Trend](Countryrevenueshare.png)
+
 
 ### Top Sales Reps Performance
 ![Top Reps](Top sales performace .png)
